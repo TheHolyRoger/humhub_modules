@@ -1,0 +1,8 @@
+.htaccess
+nbproject
+.idea/*
+.gitmodules
+/composer.lock
+
+
+.DS_Store
